@@ -16,6 +16,7 @@ Source3: ueaglestat
 License: Public Domain/BSD
 Group: System/Kernel and hardware
 Url: http://eagle-usb.org/
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 
 %description
