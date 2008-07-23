@@ -1,7 +1,7 @@
 %define name ueagle-firmware
 %define version 1.1
 %define distname ueagle-data-%{version}
-%define release %mkrel 2
+%define release %mkrel 3
 
 Summary: Firmware and CMV files for Eagle-based modems
 Name: %{name}
