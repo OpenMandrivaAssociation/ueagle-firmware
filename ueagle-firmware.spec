@@ -4,7 +4,7 @@
 Summary:	Firmware and CMV files for Eagle-based modems
 Name:		ueagle-firmware
 Version:	1.1
-Release:	9
+Release:	10
 Source0:	http://eagle-usb.org/ueagle-atm/non-free/%{distname}.tar.bz2
 Source1:	http://download.gna.org/ueagleatm/ikanos/ueagle4-data-1.0.tar.gz
 # (tpg) stolen from http://svn.gna.org/viewcvs/ueagleatm/trunk/ueagle-utils/debug/#dirlist
