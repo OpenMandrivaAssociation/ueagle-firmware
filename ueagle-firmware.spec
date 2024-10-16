@@ -13,7 +13,7 @@ Source2:	ueaglediag
 Source3:	ueaglestat
 License:	Public Domain/BSD
 Group:		System/Kernel and hardware
-Url:		http://eagle-usb.org/
+Url:		https://eagle-usb.org/
 BuildArch:	noarch
 
 %description
